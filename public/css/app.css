@@ -1,0 +1,15 @@
+.main-index {
+  background-image: url('/images/emilia-home.jpg');
+  font-family: 'Open Sans', sans-serif;
+}
+
+.main-name {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 2cm;
+}
+h6 {
+  min-height: 100vh;
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+}
+
